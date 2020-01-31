@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ཐེག་པ་ཆེན་པོ་མདོ་སྡེའི་རྒྱན་གྱི་འགྲེལ་པ་རིན་པོ་ཆེའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors:
+  - མཛད་པ་པོ། རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ།
+  sku: VVI-018
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Precious Garland:A Commentary on the Ornament of the Mahayana Sutras
+    bo: ཐེག་པ་ཆེན་པོ་མདོ་སྡེའི་རྒྱན་གྱི་འགྲེལ་པ་རིན་པོ་ཆེའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Vajra Vidya Institute Library–  Book 18
+    bo: ''
+  author:
+    en: Gyalse Tokme
+    bo: ''
+  pusblisher:
+    en: Vajra Vidya Institute
+    bo: ''
+  sku: VVI-018
+  category:
+    en: Maitreya’s Five Dharmas
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: VVI-018.epub
+  description:
+    en: ''
+    bo: ''
