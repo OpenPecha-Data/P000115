@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000115
+initial_creation_type: ebook
+source_metadata:
   title: ཐེག་པ་ཆེན་པོ་མདོ་སྡེའི་རྒྱན་གྱི་འགྲེལ་པ་རིན་པོ་ཆེའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།།
   authors:
   - མཛད་པ་པོ། རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ།
-  sku: VVI-018
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: VVI-018
 web_metadata:
   title:
     en: A Precious Garland:A Commentary on the Ornament of the Mahayana Sutras
